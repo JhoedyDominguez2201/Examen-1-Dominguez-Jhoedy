@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+}
+
+.Titulo{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;  
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.img1{
+position:absolute;
+bottom:659px;
+text-decoration: none;
+border:0px;
+height: 138px;
+width: 138px;
+left: 1400px; 
+transform: scale(0.125, 0.125);
+
+}
+
+.img2{
+    position:absolute;
+    bottom:659px;
+    text-decoration: none;
+    border:0px;
+    height: 138px;
+    width: 138px;
+    left: -55px; 
+    transform: scale(0.2, 0.2);
+}
+
+.nota{
+    color: grey;
+}
